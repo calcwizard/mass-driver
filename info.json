@@ -1,0 +1,10 @@
+{
+	"name": "mass-driver",
+	"version": "17.1.0",
+	"factorio_version": "0.17",
+	"title": "Mass Driver",
+	"author": "calcwizard",
+	"homepage": "",
+	"dependencies": ["base"],
+	"description": "Late-game long-distance item transport using suborbital artillery launches."
+}
