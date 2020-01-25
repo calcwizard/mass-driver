@@ -1,10 +1,23 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.17.2
-Date: 2019-05-30
-  Minor Features:
-    - Added an option to have atomic bomb research require cliff explosives research
+Version: 18.0.1
+Date: 2020-01-25
+  Bugfixes:
+    - Fixed a conflict caused by mods raising script_raised_built without providing an entity (why?)
 ---------------------------------------------------------------------------------------------------
-Version: 0.17.1
-Date: 2019-04-09
+Version: 18.0.0
+Date: 2020-01-24
   Features:
-    - Atomic bombs now destroy cliffs within their blast radius
+    - Updated to Factorio version 0.18
+    - Added surface targeting data in preparation for cross-surface targeting
+---------------------------------------------------------------------------------------------------
+Version: 17.1.0
+Date: 2019-12-07
+  Features:
+    - Added blueprint support for targetting computers
+    - Base turret range can be configured
+---------------------------------------------------------------------------------------------------
+Version: 17.0.0
+Date: 2019-10-12
+  Features:
+    - Mass driver that can be used to launch payload chests over long distances
+    - GPS that can be used to target mass drivers
